@@ -51,8 +51,8 @@ Requirements: Python 3, NumPy, pandas, SciPy, scikit-image, scikit-learn, Matplo
 ## Team Members
 
 - Joud Fayez Althagafi
-- Layan Altamimi
-- Lina Bashamakh
+- Layan Saud Altamimi
+- Lina Abubaker Bashamakh
 - Maryam Abu Qurain
 - Renad Ghazi AlYami
-- Retal Alharbi
+- Retal Qasim Alharbi
