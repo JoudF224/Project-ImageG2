@@ -1,6 +1,6 @@
 # Robust Recognition of Handwritten Arabic Characters in Low-Quality Images Using Preprocessing and HOG Features
 
-**ARTI 403 – Image Processing | Group 2**
+**ARTI 403 – Image Processing | Group 1**
 Imam Abdulrahman Bin Faisal University – College of Computer Science and Information Technology
 **Instructor:** Dr. Manal
 
